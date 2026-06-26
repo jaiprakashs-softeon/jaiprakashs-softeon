@@ -1,97 +1,62 @@
-<h1 align="center">Hi 👋, I'm Jai Prakash Sah</h1>
- 
-<h3 align="center">
-Product Engineer
-</h3>
- 
-<div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/profile-views?username=jaiprakashs-softeon&theme=tokyonight&hide_border=true" />
-</div>
- 
----
- 
-## 👨‍💻 About Me
- 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Jai%20Prakash%20Sah&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Product%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=jaiprakashs-softeon">
+    <img src="https://komarev.com/ghpvc/?username=jaiprakashs-softeon&label=Profile%20views&color=00FFFF&style=flat-square" alt="jaiprakashs-softeon's profile views" />
+  </a>
+</p>
+
+## 📌 About Me
 - 💼 Software Engineer with 5+ years of experience
 - 🔭 Currently working on Java Backend Development
-- 🌱 Learning Kubernetes, Cloud Computing & System Design
+- 🌱 Learning AI, Cloud Computing & System Design
 - 💬 Ask me about Java, Maven, Apache Camel, Apache Kafka, Docker, & MySQL
 - ⚡ Passionate about scalable backend engineering
- 
----
-
-<h3 align="left">🤝 Connect with me</h3>
-<p align="left">
-
-<!-- GitHub -->
-<a href="https://github.com/jaiprakashs-softeon" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/jai-prakash-sah" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/sahjaiprakash99" target="_blank">
-  <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
-
-</p>
 
 
---- 
- 
-# 🛠️ Tech Stack
- 
+## 📊 GitHub Stats & Trophies
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,jenkins,git,github,maven" />
+  <img src="https://trophy.ryglcloud.net/?username=jaiprakashs-softeon&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jai Prakash Sah's GitHub Trophies" />
 </p>
- 
 <p align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=apachecamel,apachekafka" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiprakashs-softeon&theme=radical&radius=10" alt="jaiprakashs-softeon's Activity Graph" />
 </p>
- 
----
- 
-# 📊 GitHub Statistics
- 
-<div align="center">
-  <img src="https://rvpriy.netlify.app/api/streak?username=jaiprakashs-softeon&theme=iphone&glow=true&shine=true&glow_strength=0.85" width="100%" />
-</div>
- 
-# Contribution Activity
-
-<div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/activity-graph?username=jaiprakashs-softeon&theme=tokyonight&hide_border=true" width="100%" />
-</div>
----
-
-# GitHub Insights
-
-<div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/profile-details?username=jaiprakashs-softeon&theme=tokyonight" width="100%" />
-</div>
-
----
- 
-# 🔥 Contribution Streak
- 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=jaiprakashs-softeon&theme=tokyonight&hide_border=true"/>
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
- 
----
- 
-# 📈 Contribution Graph
- 
+
+
+## 🛠️ Languages & Tools
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiprakashs-softeon&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 </p>
 
----
 
-# GitHub Achievements
 
-<div align="center">
-  <img src="https://rvpriy.netlify.app/api/cards/trophies?username=jaiprakashs-softeon&theme=tokyonight" />
-</div>
- 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/jai-prakash-sah"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Jai Prakash Sah's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:jaiprakashs@softeon.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Jai Prakash Sah's Email"/></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
