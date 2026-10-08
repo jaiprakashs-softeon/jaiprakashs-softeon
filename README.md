@@ -24,7 +24,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiprakashs-softeon&theme=radical&radius=10" alt="jaiprakashs-softeon's Activity Graph" />
 </p>
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img src="https://ghchart.rshah.org/jaiprakashs-softeon" alt="jaiprakashs-softeon's Contribution Chart" width="100%" />
 </p>
 
 
